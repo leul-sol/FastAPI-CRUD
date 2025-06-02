@@ -1,0 +1,16 @@
+# Byte-code files
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/ 
